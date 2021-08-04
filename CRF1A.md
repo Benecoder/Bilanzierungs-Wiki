@@ -1,0 +1,5 @@
+* 1.A.1 ENERGY INDUSTRIES 
+* 1.A.2 MANUFACTURING INDUSTRIES AND CONSTRUCTION
+* 1.A.3 [TRANSPORT](https://github.com/Benecoder/Bilanzierungs-Wiki/wiki/1.A.3-Transport)
+* 1.A.4 OTHER SECTORS
+* 1.A.5 OTHER
