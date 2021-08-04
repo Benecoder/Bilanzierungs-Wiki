@@ -1,3 +1,3 @@
-* [Personenkraftwagen](https://github.com/Benecoder/Bilanzierungs-Wiki/wiki/Personenkraftwagen)
+* [Personenkraftwagen](CRF1A3bPWK.md)
 * Leichte Nutzfahrzeuge
 * Schwere Nutzfahrzeuge
