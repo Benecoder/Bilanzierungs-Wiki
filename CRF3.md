@@ -28,5 +28,6 @@ Durch eine mengenmäßige Deckelung der ausgegebenen Zertifikate und eine schrit
 - Emissionen aus der Rinderhaltung sind abhängig von der Haltungsform. Kühe sind nicht perse schlecht fürs Klima, da sie auch eine wichtige Rolle bei der CO2-Bindung spielen können.
 - ...
 
+
 ![bild geht nicht](/assets/CRF3-Reduktion-Tierbestände.PNG)
-![bild geht nicht](/assets/CRF3-Reduktion-Tierbestände-backend.PNG)
+![bild geht nicht](/assets/CRF3-Reduktion-Tierbestände_backend.PNG)
