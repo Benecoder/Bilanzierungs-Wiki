@@ -21,6 +21,6 @@ was so aussieht.
 # Szenario
 
 Hier würden wir dann die Bilder einbetten aber das passiert erst, wenn wir alle Modelle fertig haben und uns sicher sind,
-was wir für Annahmen treffen wollen.
+was wir für Annahmen treffen wollen. Bilder werden immer in /assets abgespeichert und das muss dann auch im Link wiederpiegeln.
 
-![Wenn das Bild nicht geht](PKW-Strombedarf.png)
+![Wenn das Bild nicht geht](/assets/PKW-Strombedarf.png)
