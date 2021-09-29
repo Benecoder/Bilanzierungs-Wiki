@@ -29,3 +29,4 @@ Durch eine mengenmäßige Deckelung der ausgegebenen Zertifikate und eine schrit
 - ...
 
 ![bild geht nicht](/assets/CRF3-Reduktion-Tierbestände.PNG)
+![bild geht nicht](/assets/CRF3-Reduktion-Tierbestände-backend.PNG)
