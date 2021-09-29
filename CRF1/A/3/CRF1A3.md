@@ -6,4 +6,4 @@
 
 Der Strombedarf des gesamten Verkehrssektors soll stark ansteigen, hauptsächlich durch den Bedarf aus den Batteriebetriebenen PKWs (BEVs).
 
-![Strombedarf ganzer Vekehrssektor](Verkehr-Emissionen.png)
+![Strombedarf ganzer Vekehrssektor](/assets/Verkehr-Emissionen.png)
