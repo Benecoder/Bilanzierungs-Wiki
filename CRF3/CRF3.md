@@ -10,7 +10,7 @@ Der Landwirtschaftssektor ist in Deutschland die größte Quelle von Methan- und
 - Methanquellen (CH4): Vor allem Verdauung und Wirtschaftsdüngermanagement
 - Lachgasquellen (N2O): Emissionen aus der Nutzung landwirtschaftlicher Böden (Ausbringung von Wirtschafts- und Mineraldünger)
 - 95 % der Gesamtemissionen an CH4 und N2O aus der Tierhaltung stammen aus Verdauung und Wirtschaftsdünger-Management (Stall, Lager) von **Rindern und Schweinen**, 2 bis 3 % entfallen auf die übrigen Tiere (Geflügel, Schafe, Ziegen, Pferde).
-- Sektor-Reduktionsziel: ca. 50% der Emissionen; Restemissionen von etwa 30 Mio.t. CO2-eq/p.a. bleiben bestehen
+- Sektor-Reduktionsziel: ca. 50% der Emissionen; Restemissionen von etwa 30 Mio.t. CO2-eq/Jahr bleiben bestehen
 
 **In der Kategorie Landwirtschaft wird berichtet über die Emissionen aus:**
 - der Fermentation bei der Verdauung (CRF 3.A): ca. 38% der Emissionen
