@@ -2,7 +2,11 @@
 **Beschreibung des Sektors:**
 Der Landwirtschaftssektor ist in Deutschland die größte Quelle von Methan- und Lachgasemissionen. Methan ist ca. 25-mal klimaschädlicher als CO2, Lachgas knapp 300-mal. 
 
-- Gesamtemission (2019): 61,8 Mio.t. CO2-eq/p.a. (ca. 8% der Gesamtemissionen von Deutschland)
+
+- Gesamtemission (2019): 61,8 Mio.t. CO2-eq/p.a. (ca. 8% der Gesamtemissionen von Deutschland) 
+```diff 
+-> sollten wir einheitlich festlegen & kommunizieren!
+```
 - Methanquellen (CH4): Vor allem Verdauung und Wirtschaftsdüngermanagement
 - Lachgasquellen (N2O): Emissionen aus der Nutzung landwirtschaftlicher Böden (Ausbringung von Wirtschafts- und Mineraldünger)
 - 95 % der Gesamtemissionen an CH4 und N2O aus der Tierhaltung stammen aus Verdauung und Wirtschaftsdünger-Management (Stall, Lager) von **Rindern und Schweinen**, 2 bis 3 % entfallen auf die übrigen Tiere (Geflügel, Schafe, Ziegen, Pferde).
