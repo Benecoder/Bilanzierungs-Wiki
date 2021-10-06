@@ -16,18 +16,17 @@ Selbst mit sehr ambitionierten Klimaschutzmaßnahmen ist davon auszugehen, dass 
 - Grünland (CRF 4.C):
 - Feuchtgebiete (CRF 4.D):
 - Siedlungen (CRF 4.E):
-- Sonstiges Land (CRF 4.F):
 - Holzprodukte (CRF 4.G):
 - Andere (CRF 4.H):
--
+
 • ober- und unterirdische Biomasse 
 • Totholz, Streu 
-• organische und mineralische Bo den 
+• organische und mineralische Boden 
 • Holzprodukte (4.G) 
 berichtet, fu r die Landnutzungskategorien 
 • Wald (4.A.1) 
 • Acker (4.B.1) 
-• Gru nland (4.C.1) 
+• Grünland (4.C.1) 
 • Feuchtgebiete (4.D.1) 
 • Siedlungen (4.E.1)
 
@@ -42,4 +41,5 @@ Wälder, Böden und ihre Vegetation speichern Kohlenstoff. Bei intensiver Nutzun
 
 ***Hinweise zur Bilanzierung der Emissionen:**
 - Der Einfluss auf die Klimaziele: Die Bundesregierung bilanziert LULUCF getrennt von den anderen Sektoren. Die Kategorie wird daher nicht in die Erreichung der Klimaziele eingerechnet.
-- Emissionen aus der Kategorie bedeuten nicht automatisch eine Senke. Das UBA listete beispielsweise erstmals den Landnutzungssektor im entscheidenden Basisjahr 1990 nicht mehr als CO2-Senke, sondern als Quelle. Demnach hatten Wälder, Moore und Grünflächen im Jahr 1990 etwa 30 Millionen Tonnen CO2 aus der Atmosphäre aufgenommen. In der neuesten Klimabilanz ist daraus eine CO2-Quelle von 25 Millionen Tonnen geworden, ein Plus von 55 Millionen Tonnen insgesamt.
+- Emissionen aus der Kategorie bedeuten nicht automatisch eine Senke: Das UBA listete beispielsweise erstmals den Landnutzungssektor im Basisjahr 1990 nicht mehr als CO2-Senke, sondern als Quelle (aufgrund eines Sturms wurden viele Bäume umgeworfen). Demnach hatten Wälder, Moore und Grünflächen im Jahr 1990 etwa 30 Millionen Tonnen CO2 aus der Atmosphäre aufgenommen. In der neuesten Klimabilanz ist daraus eine CO2-Quelle von 25 Millionen Tonnen geworden, ein Plus von 55 Millionen Tonnen insgesamt.
+- Die Speicherleistung von Wäldern und Mooren kann nur im Abstand mehrerer Jahre ermittelt werden. Maßnahmen zum Schutz zeigen sich daher erst langfristig.
