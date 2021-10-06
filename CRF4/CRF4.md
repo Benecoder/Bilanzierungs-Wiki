@@ -7,7 +7,7 @@ Selbst mit sehr ambitionierten Klimaschutzmaßnahmen ist davon auszugehen, dass 
 -> sollten wir einheitlich festlegen & kommunizieren!
 ```
 
-1990 absorbierten natürliche Kohlenstoffsenken in Europa etwa 275 Mt CO2/Jahr. Dieser Wert stieg bis 2006 auf 355 Mt CO2/Jahr. Seither nimmt die Speicherleistung jedoch wieder kontinuierlich ab (z.B. durch intensive Bewirtschaftung, Wetterextreme), auf zuletzt 280 Mt CO2/Jahr. Eine nachhaltige Bewirtschaftung von Wäldern, Äckern und Grünland sowie die Wiedervernässung von Mooren ist daher essenziell, um die langfristige Speicherleistung zu sichern und den Vorrat an Kohlenstoff zu speichern.
+1990 absorbierten natürliche Kohlenstoffsenken in Europa etwa 275 Mio.t.CO2/Jahr. Dieser Wert stieg bis 2006 auf 355 Mio.t.CO2/Jahr. Seither nimmt die Speicherleistung jedoch wieder kontinuierlich ab (z.B. durch intensive Bewirtschaftung, Wetterextreme), auf zuletzt 280 Mio.t.CO2/Jahr. Eine nachhaltige Bewirtschaftung von Wäldern, Äckern und Grünland sowie die Wiedervernässung von Mooren ist daher essenziell, um die langfristige Speicherleistung zu sichern und den Vorrat an Kohlenstoff zu speichern.
 
 **In der CRF4-Kategorie wird über folgende positive (Quelle) und negative (Senke) Emissionen berichtet:**
 
