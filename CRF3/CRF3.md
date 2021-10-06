@@ -32,6 +32,6 @@ Durch eine mengenmäßige Deckelung der ausgegebenen Zertifikate und eine schrit
 - Emissionen aus der Rinderhaltung sind abhängig von der Haltungsform. Kühe sind nicht perse schlecht fürs Klima, da sie auch eine wichtige Rolle bei der CO2-Bindung spielen können.
 - Emissionen aus der Mineraldüngerherstellung (CRF 2.B.1 Industrie), der stationären & mobilen Feuerung (CR 1.A.4.c Energie; Traktoren, etc.) und Landnutzung (CRF 4; Wälder, Moore etc.) sind nicht Teil der Landwirtschaftskategorie CRF 3.
 
-![bild](/assets/CRF3-Anteile-thg-landwirtschaft_2021.PNG)
+![bild](/assets/CRF3-Anteile-thg-landwirtschaft_2021.png)
 ![bild](/assets/CRF3-Reduktion-Tierbestände.PNG)
 ![bild](/assets/CRF3-Reduktion-Tierbestände_backend.PNG)
