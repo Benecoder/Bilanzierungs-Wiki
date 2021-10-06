@@ -7,7 +7,7 @@ Selbst mit sehr ambitionierten Klimaschutzmaßnahmen ist davon auszugehen, dass 
 -> sollten wir einheitlich festlegen & kommunizieren!
 ```
 
-1990 absorbierten natürliche Kohlenstoffsenken in Europa etwa 275 Mio.t.CO2/Jahr. Dieser Wert stieg bis 2006 auf 355 Mio.t.CO2/Jahr. Seither nimmt die Speicherleistung jedoch wieder kontinuierlich ab (z.B. durch intensive Bewirtschaftung, Wetterextreme), auf zuletzt 280 Mio.t.CO2/Jahr. Eine nachhaltige Bewirtschaftung von Wäldern, Äckern und Grünland sowie die Wiedervernässung von Mooren ist daher essenziell, um die langfristige Speicherleistung zu sichern und den Vorrat an Kohlenstoff zu speichern.
+- 1990 absorbierten natürliche Kohlenstoffsenken in Europa etwa 275 Mio.t.CO2/Jahr. Dieser Wert stieg bis 2006 auf 355 Mio.t.CO2/Jahr. Seither nimmt die Speicherleistung jedoch wieder kontinuierlich ab (z.B. durch intensive Bewirtschaftung, Wetterextreme), auf zuletzt 280 Mio.t.CO2/Jahr. Eine nachhaltige Bewirtschaftung von Wäldern, Äckern und Grünland sowie die Wiedervernässung von Mooren ist daher essenziell, um die langfristige Speicherleistung zu sichern und den Vorrat an Kohlenstoff zu speichern.
 
 **In der CRF4-Kategorie wird über folgende positive (Quelle) und negative (Senke) Emissionen berichtet:**
 
@@ -18,17 +18,6 @@ Selbst mit sehr ambitionierten Klimaschutzmaßnahmen ist davon auszugehen, dass 
 - Siedlungen (CRF 4.E; Boden, Biomasse und tote organische Substanz von Flächen, die zu Siedlungs- und Verkehrszwecken ausgewiesen sind; Unterteilung in verbleibende Siedlungen (CRF 4.E.1) und Umwandlung zu Siedlungen (CRF 4.E.2)): ca 4,3 Mio.t. CO2-eq/Jahr
 - Holzprodukte (CRF 4.G; alle in Deutschland produzierten Holzprodukte, deren Holz aus heimischem Einschlag stammt und die stofflich genutzt werden;): ca -4,1 Mio.t. CO2-eq/Jahr
 - Andere (CRF 4.H): ca. 0,09 Mio.t. CO2-eq/Jahr
-
-• ober- und unterirdische Biomasse 
-• Totholz, Streu 
-• organische und mineralische Boden 
-• Holzprodukte (4.G) 
-berichtet, fu r die Landnutzungskategorien 
-• Wald (4.A.1) 
-• Acker (4.B.1) 
-• Grünland (4.C.1) 
-• Feuchtgebiete (4.D.1) 
-• Siedlungen (4.E.1)
 
 **Modellierung von Treibhausgas-Emissionen aus Landnutzungsänderung:**
 Jährliche Veränderungen des nationalen Kohlenstoffhaushalts, die durch Änderungen der ⁠Landnutzung⁠ entstehen, werden über ein Gleichgewichtsmodell des UBA berechnet, welches für Deutschland auf einem Stichprobensystem mit rund 36 Millionen Stichprobenpunkten basiert. Dazu werden nationale Flächen in die Kategorien Wald, Acker- sowie Grünland, Feuchtgebieten Siedlungen und Flächen anderer Nutzung unterteilt. D.h. nachdem eine Fläche eine Nutzungsänderung erfährt, verändert sich die Kohlenstoffbilanz. Die Bilanzierung (Netto) erfolgt über die Summe der positiven (Quelle) und negativen (Senke) CO2-Emissionen.
