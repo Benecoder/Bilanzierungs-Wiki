@@ -18,10 +18,15 @@ Dabei entweichen die brennbaren sogenannten Kokereigase.
 Diese werden in KWK Anlagen zur Erzeugung von Strom und Wärme für die Kokerei und den übrigen Produktionsablauf genutzt.
 Das Eisenerz wird gesintert und pelletiert, wozu ebenfalls thermische Energie aufgebracht werden muss.
 Die Mischung aus Koks und Eisenerz wird dann im Hochofen erhitzt.
-Der Kohlenstoff und zusätzlich eingespeißeter Sauerstoff wirken dabei als Redkutionsmittel und lösen den Sauerstoff vom Eisenerz so dass flüssiges Roheisen und Schlacke übrig bleiben.
-Auch hier entstehen Brennbare gase, die sogenannten Gichtgase.
+[Insgesamt kann so der gesamte Strombedarf der Hochofenroute aus Eigenproduktion gedeckt werden.](https://www.bmwi.de/Redaktion/DE/Downloads/E/energiewende-in-der-industrie-ap2a-branchensteckbrief-stahl.html)
 
+Aus dem hochintegrierten Prozess in dem Brennstoffe mehrmals verwandelt werden ergeben sich eine Vielzahl von unterschiedlichen Emissionsquellen. Vereinfachend kann nach den 2006 IPCC Guidlines allerdings angenommen werden, das der gesamte Kohlenstoffanteil in der Steinkohle früher oder später als CO2 in die Atmosphäre emittiert wird.
 
+>  virtually all of the carbon used for primary steel production is subsequently released into the atmosphere, as CO2, in later energy-related use, or in flaring of the blast furnace gas that forms in the blast furnace or of the basic oxygen furnace gas that forms in the oxygen steel converter.
+
+NIR 2021, S. 327
+
+Die Verteilung der Emissionen auf die verschiedenen Kategiorien kann mithilfe der Tabelle 191 und den Emissionsdaten aus dem NIR 2021 rekonstruiert werden.
 
 NIR Primärroute | kt CO2 | kt C im CO2 | CO2 Anteil am C | kt CH4 | kt C im CH4 | CH4 Anteil am C | kt C gesamt | % C gesamt
 -|-|-|-|-|-|-|-|-
@@ -34,4 +39,13 @@ Brennstoff gesamt		|	 34.309,56 	| 9.363,37  | 	64,75%	| 18,21 |	 13,64  | 	0,09
 Prozessemissionen gesamt		|	 18.004,17 |	 4.913,49  | 	33,98%|	 0,20 |	 0,15 |  	0,00%	| 4.913,64  | 	33,98%	
 1.B.1.b Flüchtige Emissionen	|		 614,36 |	 167,66   |	1,16% |	 2,11 |	 1,58   |	0,01%	 169,24 |  	1,17%	
 ||||||||
-gesamt		|	 52.928,09 |	 14.444,52 |	99,89%	| 20,52 |	 15,36 |	0,11%	| 14.459,89 |	100,00%	
+gesamt		|	 52.928,09 |	 14.444,52 |	99,89%	| 20,52 |	 15,36 |	0,11%	| 14.459,89 |	100,00%
+
+Der Anteil der Methanemissionen am Kohlenstoffanteil ist äußerst gering.
+Somit kann es zwar in den prognostizierten Jahren zu einer verschiebung zwischen den Kategorien kommen, die absolute Menge CO2 wird allerdings immer durch die Verbrannte Kohlemenge bestimmt.
+[Diese Zahl wird jährlich vom Verein der Kohleimporteure(VdKI) veröffentlicht.](https://www.kohlenimporteure.de/publikationen/jahresbericht-2021.html)
+Es wird angenommen, dass in Steinkohle zu 89% elementarer Kohlenstoff gebunden ist und dieser nach der obigen Verteilung zu CO2 und CH4 reagiert
+Bei der Oxidation zu CO2 wird das Gewicht des Kohlenstoffs um das Verhältnis der molaren Masse, also ca. 44/12 anwachsen. (Für CH4 ca. 16/12)
+Nach den Daten des VdKI wurden in den deutschen Hochöfen  17,2 mio. t. SKE verbrannt.
+Somit ergeben sich 52,390 kt CO2, eine unabhängige Verifikation der Ergebnisse des NIR 2021 der nur um 1,02% von diesem Ergebnis abwicht.
+
