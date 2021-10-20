@@ -5,7 +5,9 @@
 - Zur Berechnung der Emissionen aus der Verdauung wird differenziert zwischen den CRF Tierkategorien: Milchkühe, übrige Rinder, Schafe, Schweine, Anderes Vieh (Ziegen, Pferde und Geflügel)
 - Überwiegend CH4 Emissionen in der Kategorie 3.A.
 - 94 bis 95 % der Gesamtemissionen an CH4 und N2O aus der Tierhaltung stammen aus Verdauung (3.A) und Wirtschaftsdünger-Management (3B.; Stall, Lager) von Rindern und Schweinen, 2 bis 3 % entfallen auf die übrigen Tiere (Geflügel, Schafe, Ziegen, Pferde).
-
+```diff
+- Um den Tierbestand bis 2035 um 50% zu senken, wird eine jährliche Verringerung der Tierbestandszahlen um 3% angestrebt. Dadurch können Emissionen aus der Verdauung in Höhe von ... CO2eq eingespart werden.
+```
 
 
 ***Hinweise:**
