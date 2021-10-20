@@ -10,4 +10,5 @@
 
 ***Hinweise:**
 - Bezüglich Fütterung: In der Wissenschaft wird diskutiert, dass die Art der Fütterung einen nicht unerheblichen Beitrag zur Emissionseinsparung leisten kann. Aufgrund der Aktualität der Diskussion, ist die Anzahl der Studienergebnisse hierzu jedoch noch sehr gering. Daher wird im Rahmen der Bilanzierung von GermanZero nicht nach Fütterungsart differenziert.
+- Bezüglich Tierunterkategorien: Im Rahmen der Bilanzierung von GermanZero wird nicht zwischen Tierunterkategorien wie Alter und Geschlecht differenziert.
 - Kategorie 3.A eng verzahnt mit CRF 3.B (Management und Behandlung von Wirtschaftsdünger) und ist daher im gemeinsamen Kontext zu betrachten.
