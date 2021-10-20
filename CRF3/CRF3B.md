@@ -16,7 +16,7 @@
 
 
 **Hinweise:**
-- Bezüglich Fütterung: In der Wissenschaft wird diskutiert, dass die Art der Fütterung einen nicht unerheblichen Beitrag zur Emissionseinsparung leisten kann. Aufgrund der Aktualität der Diskussion, ist die Anzahl der Studienergebnisse hierzu jedoch noch sehr gering.
+- Bezüglich Fütterung: In der Wissenschaft wird diskutiert, dass die Art der Fütterung einen nicht unerheblichen Beitrag zur Emissionseinsparung leisten kann. Aufgrund der Aktualität der Diskussion, ist die Anzahl der Studienergebnisse hierzu jedoch noch sehr gering. Daher wird im Rahmen der Bilanzierung von GermanZero nicht nach Fütterungsart differenziert.
 ```diff
 - Bezüglich Haltungsform: Weidehaltung/Stallhaltung -> differenzieren wir hier?
 ```
