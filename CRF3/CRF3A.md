@@ -9,6 +9,6 @@
 
 
 **Hinweise:**
-- Bezüglich Fütterung:
-- Bezüglich Haltungsform:
-- Kategorie 3.A eng verzahnt mit CRF 3.B (Management und der Behandlung von Wirtschaftsdünger)
+- Bezüglich Fütterung: In der Wissenschaft wird diskutiert, dass die Art der Fütterung einen nicht unerheblichen Beitrag zur Emissionseinsparung leisten kann. Aufgrund der Aktualität der Diskussion, ist die Anzahl der Studienergebnisse hierzu jedoch noch sehr gering.
+- Bezüglich Haltungsform: Weidehaltung/Stallhaltung
+- Kategorie 3.A eng verzahnt mit CRF 3.B (Management und Behandlung von Wirtschaftsdünger)
