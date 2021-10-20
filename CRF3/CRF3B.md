@@ -18,7 +18,7 @@
 - Um den Tierbestand bis 2035 um 50% zu senken, wird eine jährliche Verringerung der Tierbestandszahlen um 3% angestrebt. Dadurch können Emissionen aus aus dem Management und der Behandlung von Wirtschaftsdünger in Höhe von ... CO2eq eingespart werden.
 ```
 
-**Hinweise:**
+***Hinweise:**
 - Bezüglich Fütterung: In der Wissenschaft wird diskutiert, dass die Art der Fütterung einen nicht unerheblichen Beitrag zur Emissionseinsparung leisten kann. Aufgrund der Aktualität der Diskussion, ist die Anzahl der Studienergebnisse hierzu jedoch noch sehr gering. Daher wird im Rahmen der Bilanzierung von GermanZero nicht nach Fütterungsart differenziert.
 ```diff
 - Bezüglich Haltungsform: Weidehaltung/Stallhaltung -> differenzieren wir hier?
