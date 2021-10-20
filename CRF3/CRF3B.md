@@ -1,4 +1,4 @@
-# CRF3 3.B: Emissionen aus dem Management und Behandlung von Wirtschaftsdünger
+# CRF3 3.B: Emissionen aus dem Management und der Behandlung von Wirtschaftsdünger
 
 **Beschreibung der Kategorie:** Zur Berechnung der Emissionen aus der Ausscheidung wird differenziert zwischen:
 
