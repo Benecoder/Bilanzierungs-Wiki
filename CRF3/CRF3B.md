@@ -1,15 +1,18 @@
 # CRF3 3.B: Emissionen aus dem Management und der Behandlung von Wirtschaftsdünger
 
-**Beschreibung der Kategorie:** Zur Berechnung der Emissionen aus der Ausscheidung wird differenziert zwischen:
+**Beschreibung der Kategorie:** 
 
-```diff
-- Stallsystemen
-```
-- Lagerungssystemen (mit Vergärung als separatem Lagersystem)
-- Ausbringungsverfahren für Wirtschaftsdünger und Gärreste. 
-- Ausscheidung von C (VS)
-- Ausscheidung von Urin-N
-- Ausscheidung von Kot-N
+- 94 bis 95 % der Gesamtemissionen an CH4 und N2O aus der Tierhaltung stammen aus Verdauung (3.A) und Wirtschaftsdünger-Management (3B.; Stall, Lager) von Rindern und Schweinen, 2 bis 3 % entfallen auf die übrigen Tiere (Geflügel, Schafe, Ziegen, Pferde).
+- Zur Berechnung der Emissionen aus der Ausscheidung wird differenziert zwischen:
+
+  ```diff
+  - Stallsystemen
+  ```
+  - Lagerungssystemen (mit Vergärung als separatem Lagersystem)
+  - Ausbringungsverfahren für Wirtschaftsdünger und Gärreste. 
+  - Ausscheidung von C (VS)
+  - Ausscheidung von Urin-N
+  - Ausscheidung von Kot-N
 
 
 **Hinweise:**
