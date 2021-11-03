@@ -7,6 +7,8 @@ Eine Reihe von Vorkettenemissionen werden berücksichtigt, allerdings in anderen
 Verbrennungsemissionen, die bei dem Transport in Pipelines z.B. in Kompressorstationen enstehen werden in 1.A.3.e aufgeführt.
 Darüber hinaus werden flüchtige Emissionen, die bei der Gewinnung und dem Transport von Energieträgern entstehen unter 1.B.1.a/1.B.2 aufgeführt.
 Entfernt verwand sollen hier auch nich die Raffinerie Emissionen aus 1.A.1.b erwähnt werden.
+Die Herstellung von PV/Wind Anlagen kann zu verschiedenen Prozessemissionen in der Grundstoffindustrie führen.
+Diese werden, sofern sie in Deutschland anfallen, in der Industrie (z.B. CRF 2.E) aufgeführt.
 
 ## Modellannahmen
 
