@@ -48,3 +48,15 @@ Dieser Verlust wird für die nächsten Jahre als konstant angenommen.
 Die spezifischen Emissionswerte, aufgeschlüsselt nach Energieträger können aus dem CRF des NIR 2021 entnommen werden.
 
 In dem Modell kann die Veränderung der Nutzung verschiedener Energieträger über die Jahre modelliert werden.
+
+## Entwicklung
+
+_Work in Progress_
+
+Die Emissionen, besonders aus der Stromerzeugung werden schon deutlich vor 2030 reduziert.
+
+![Bilde der Emissionen 1.A.1.a](/assets/CRF1a1a.png)
+
+Bei der Stromerzeugung spielt dabei besonders die Abschaltung von Kohlekraftwerken eine große Rolle.
+
+![Energieträger in der Stromerzeugung](/assets/Stromerzeugungsenergieträger.png)
