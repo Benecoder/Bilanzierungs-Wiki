@@ -60,3 +60,7 @@ Die Emissionen, besonders aus der Stromerzeugung werden schon deutlich vor 2030 
 Bei der Stromerzeugung spielt dabei besonders die Abschaltung von Kohlekraftwerken eine große Rolle.
 
 ![Energieträger in der Stromerzeugung](/assets/Stromerzeugungsenergieträger.png)
+
+Dabei spielt der massive Ausbau von erneueerbaren Kapaitäten eine große Rolle.
+
+![Erneuerbare Erzeugerkapzität](/assets/EE_Kapazität.png)
