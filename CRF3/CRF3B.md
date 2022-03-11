@@ -1,26 +1,31 @@
-# CRF3 3.B: Emissionen aus dem Management und der Behandlung von Wirtschaftsdünger
+# CRF 3.B Manure management
 
-**Beschreibung der Kategorie:** 
+Kurze Beschreibung der abgedeckten Emissionen und nicht abgedeckten Kategorien mit Verwechslungsgefahr.
 
-- 94 bis 95 % der Gesamtemissionen an CH4 und N2O aus der Tierhaltung stammen aus Verdauung (3.A) und Wirtschaftsdünger-Management (3B.; Stall, Lager) von Rindern und Schweinen, 2 bis 3 % entfallen auf die übrigen Tiere (Geflügel, Schafe, Ziegen, Pferde).
-- Zur Berechnung der Emissionen aus der Ausscheidung wird differenziert zwischen:
+# Modellannahmen
+## mit Unterkategorien
+### und Unter-Unterkategorien
 
-  ```diff
-  - Stallsystemen
-  ```
-  - Lagerungssystemen (mit Vergärung als separatem Lagersystem)
-  - Ausbringungsverfahren für Wirtschaftsdünger und Gärreste. 
-  - Ausscheidung von C (VS)
-  - Ausscheidung von Urin-N
-  - Ausscheidung von Kot-N
+Ähnlich wie ein [Personenkraftwagen](CRF1A3bPWK.md)
+**,bin ich fett** _schief_ [und verbinde A und B](https://app.element.io/germanzero.de).
 
-```diff
-- Um den Tierbestand bis 2035 um 50% zu senken, wird eine jährliche Verringerung der Tierbestandszahlen um 3% angestrebt. Dadurch können Emissionen aus aus dem Management und der Behandlung von Wirtschaftsdünger in Höhe von ... CO2eq eingespart werden.
-```
+Man muss aufpassen
+das nicht alles ein Absatz ist,
+was so aussieht.
 
-***Hinweise zur Bilanzierung der Emissionen::**
-- Bezüglich Fütterung: In der Wissenschaft wird diskutiert, dass die Art der Fütterung einen nicht unerheblichen Beitrag zur Emissionseinsparung leisten kann. Aufgrund der Aktualität der Diskussion, ist die Anzahl der Studienergebnisse hierzu jedoch noch sehr gering. Daher wird im Rahmen der Bilanzierung von GermanZero nicht nach Fütterungsart differenziert.
-```diff
-- Bezüglich Haltungsform: Weidehaltung/Stallhaltung -> differenzieren wir hier?
-```
-- Kategorie 3.B ist eng verzahnt mit CRF 3.A (Fermentation bei der Verdauung) und ist daher im gemeinsamen Kontext zu betrachten.
+* So
+* macht
+* man Listen
+
+1. Die
+2. kann
+3. auch nummerieren
+
+
+# Szenario
+
+Hier würden wir dann die Bilder einbetten aber das passiert erst, wenn wir alle Modelle fertig haben und uns sicher sind,
+was wir für Annahmen treffen wollen. Bilder werden immer in /assets abgespeichert und das muss dann auch im Link wiederpiegeln.
+
+
+
