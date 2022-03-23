@@ -1,4 +1,4 @@
-# CRF 1.A.3.b
+# CRF 1.A.3.a Domestic aviation
 
 Erster Paragraph:
 
@@ -11,7 +11,6 @@ Modellannahmen:
     Was wird als konstant angenommen?
     Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
     Wie werden in den Folgejahren die Emissionen berechnet?
-
 
 
 # Modellannahmen
@@ -41,6 +40,3 @@ was wir für Annahmen treffen wollen. Bilder werden immer in /assets abgespeiche
 
 ![Wenn das Bild nicht geht](/assets/PKW-Strombedarf.png)
 
-## Personenkraftwagen
-## Leichte Nutzfahrzeuge
-## Schwere Nutzfahrzeuge
