@@ -13,3 +13,4 @@ Modellannahmen:
     Wie werden in den Folgejahren die Emissionen berechnet?
 
 
+In 1.A.2.f werden die Verbrennungsemissionen aus der Herstellung von nicht-metallischen Mineralien, hauptsächlich Zementklinker (größtenteils ein Calciumsilikat), aber auch Kalk, Glas und Keramik abgedeckt. In 1.A.2.f werden dabei ausschließlich die energetischen Emissionen zur Prozesswärmebereitstellungen behandelt. Bei der Brennung von Mineralen wird Kohlenstoffdioxid aus dem Gestein gelöst. Die Produktion dieser Gase ist eine sogenannte Prozessemission und ein integraler Teil der Produktion. 
