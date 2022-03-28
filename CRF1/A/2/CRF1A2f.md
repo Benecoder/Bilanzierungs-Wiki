@@ -1,16 +1,22 @@
 # CRF 1.A.2.f Non-metallic minerals
 
-Erster Paragraph:
+In 1.A.2.f werden die Verbrennungsemissionen aus der Herstellung von nicht-metallischen Mineralien, hauptsächlich Zementklinker (größtenteils ein Calciumsilikat), aber auch Kalk, Dolomit, und Glas abgedeckt. In 1.A.2.f werden dabei ausschließlich die energetischen Emissionen zur Prozesswärmebereitstellungen behandelt. Bei der Brennung von Mineralen wird Kohlenstoffdioxid aus dem Gestein gelöst. Die Produktion dieser Gase ist eine sogenannte Prozessemission und ein integraler Teil der Produktion. Die Modellierung dieser Emissionen wird in 2.A behandelt.
 
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter?
+## Modellanahmen
+Für die Zementbrennung ist ein enormer Bedarf an thermischer Energie bei hoher Temperatur notwendig.
+Eine nachhaltige Deckung dieses Bedarfs ist daher nur mithilfe von elektrischer Energie möglich.
+Alternativ könnte die Nutzung von Biomasse, die Nutzung von Wärmepumpen in Kombination mit industrieller Abwärme oder die Verbrennung von E-Fuels berücksichtigt werden.
+Die prävalenten Flächennutzungskonflikte und der landwirtschaftliche Schaden, der bei der Nutzung von Biomasse unvermeidbar ist, verbietet allerdings einen starken Anstieg in der Verbrennanung von Biomasse.
+Die hohen Temperaturen die für die Zementbrennung erforderlich sind machen auch die Nutzung von industrieller Abwärme unmöglich, weil der Wirkungsgrad von Wärmepumpen bei derartigen Temperaturdifferenzen [verschwindend gering ist.](https://www.fv-ies.ch/fileadmin/FV-IES/Literaturstudie_Hochtemperatur_Waermepumpen.pdf)
+E-Fuels fungieren nur als Medium für vorher gewonnen elektrische Energie und eine Nutzung zur Bereitstellung thermischer Energie stellt eigentlich nur eine sehr ineffiziente Nutzung von grünem Strom dar. 
+Insgesamt wird also von einem Brennstoffwechsel zu erneuerbaren Energieträgern und einer direkten Elektrifizierung des übrigen Energiebedarfs ausgegangen.
 
-Modellannahmen:
+Die Aktivitätsdaten und Emissionsfaktoren für die Produktion von Zementklinker, Kalk, Dolomitkalk können aus den Tabellen 180, 181 und 182 des nationalen Inventarberichts entnommen werden.
+Genauso liegen auch die Energieträger differenziert nach Typ im NIR vor.
 
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-    Welche Werte sind im Modell veränderbar?
-    Was wird als konstant angenommen?
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-    Wie werden in den Folgejahren die Emissionen berechnet?
-
-
-In 1.A.2.f werden die Verbrennungsemissionen aus der Herstellung von nicht-metallischen Mineralien, hauptsächlich Zementklinker (größtenteils ein Calciumsilikat), aber auch Kalk, Glas und Keramik abgedeckt. In 1.A.2.f werden dabei ausschließlich die energetischen Emissionen zur Prozesswärmebereitstellungen behandelt. Bei der Brennung von Mineralen wird Kohlenstoffdioxid aus dem Gestein gelöst. Die Produktion dieser Gase ist eine sogenannte Prozessemission und ein integraler Teil der Produktion. 
+Im Modell ist die Veränderung im Bedarf der produzierten Stoffe (Beton, Kalk, Dolomit und Glas) einstellbar.
+Zusätzlich ist der Anteil von Zemenklinker am Zement und der Anteil des Zements im Beton veränderbar.
+Darüber hinaus kann die Veränderung der Energieträgernutzung eingestellt werden.
+Die Lücke zum Energiebedarf der durch die produzierte Menge vorgegeben wird, wird dann automatisch durch elektrische Energie geschlossen. (vor 2024 mit Biomasse)
+Die Emissionsfaktoren werden differenziert nach Treibhausgas (CO2, CH4 und N2O) aus dem NIR übernommen und als konstant angenommen.
+Insgesamt werden so die Emissinen als proportional zur energetischen Nutzung über die nächsten 15 Jahre angenommen.
