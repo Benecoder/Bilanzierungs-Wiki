@@ -8,3 +8,7 @@
 * f.  [Non-metallic minerals](CRF1A2f.md)
 * g.  [Other (please specify)](CRF1A2g.md)
 
+In 1.A.2 werden die Verbrennungsemissionen aus der Industrie abgedeckt.
+In den Kategorien werden dabei prozessspezifische Emissionen nach Industrie aufgelistet.
+Für die Eigenstrom und Prozesswärmeerzegugun werden in den meisten Industrien sehr ähnliche Anlagen genutzt.
+Diese Emissionen werden analog zur Methodik im Nationalen Inventarbeicht in der Kategorie gesammelt, da eine Abgrenzung zwischen Industriezweigen nicht eindeutig möglich ist.
