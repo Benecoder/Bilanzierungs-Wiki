@@ -1,17 +1,5 @@
 # CRF 1.A.2.d Pulp, paper and print
 
-Erster Paragraph:
-
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter? X
-
-Modellannahmen:
-
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet? X
-    Welche Werte sind im Modell veränderbar? 
-    Was wird als konstant angenommen? x
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden? x
-    Wie werden in den Folgejahren die Emissionen berechnet? x
-
 In 1.A.2.d werden die Verbrennungsemissionen der industriellen Papier-,Pappe- und Holzstoffproduktion aus sekundären Brennstoffen abgebildet.
 Die Energieträger sind dabei in der Regel Abfallstoffe aus dem Herstellung wie Holz oder Holzfasern und werden daher als Biomasse bilanziert.
 Die Nutzung anderer Primärer Energieträger wie Kohle und Gas zur Eigenstrom- oder Prozesswärmeerzeugung werden ähnlich wie in allen anderen industriellen Prozessen in 1.A.2.g aufgehführt.
