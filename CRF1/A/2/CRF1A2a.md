@@ -19,8 +19,10 @@ In der unterliegenden Rechnung sind daher die Emissionen in 1.A.1.c an die Aktiv
 
 ## Modell Annahmen
 
-Die Emissionene für 1.A.1.c werden getrennt nach verschiedenen Stahlproduktionstechniken berechnet.
+Die Emissionene für 1.A.2.a werden getrennt nach verschiedenen verschiedenen Prozessen berechnet.
 Für die Folgejahre kann die Produktion von Hochofenstahl, Elektrostahl und Eisenschwemme aus CH4 oder H2 Direktreduktion berechnet werden.
+Die Emissionen nach 1.A.2.a von den Emissionen aus 2.C.1 zu differenzieren ist nicht eindeutig möglich.
+Insgesamt wird im Modell also die Summe der Emissionen aus 1.A.2.a uns 2.C.1 berechnet und dann angenommen, dass sich der Anteil der Emissionskategorien an den Gesamtemissionen nicht verschiebt.
 
 ### Hochofenroute
 Rund 70% oder 27.7 mio. t Rohstahl wurden 2019 über die Hochofenroute produziert. (NIR 2021, S.326)
@@ -117,6 +119,54 @@ Die Emissionsfaktoren für Erdgas wurden aus dem nationalen Inventarbeicht für 
 Der Energiebedarf pro produzierter Tonne Stahl für jeden der Energieträger wurde als konstant angenommen.
 Für die Folgejahre kann dann der Bedarf an produziertem Elektorstahl aus Stahlschrott verändert werden.
 Die Menge an verarbeiteter Eisenschwemme ist die Summer der Produktion aus H2 und CH4 Direktreduktion. (s.u.)
+
+### CH4 Direktreduktion
+
+Bei der CH4 Direktreduktion wird Eisenerz direkt unter der Präsenz von Methan reduziert.
+Das Methan fungiert dabei gleichzeitig als Kohlenstoffquelle für den Stahl und als Reduktionsagent.
+Nur der Teil des CH4, das als Reduktionsagent reagiert wird schlussendlich als CO2 in die Atmosphäre emittiert.
+Die produzierte Menge CH4-DRI Stahl im Jahr 2018 kann aus dem statistischen Jahrbuch der WV-Stahl entommen werden.
+Nach Lösch et. al. (Bewertung der Direktreduktion von Eisenerz mittels Elektrolyse-Wasserstoff, 2020) fallen pro tonne produziertem Stahl 9,7 GJ Erdgasbedarf an.
+Von den 15,2 tC/TJ im Erdgas werden 2,3% in der Schwemme gebunden.
+Die restlichen 97,7% werden oxidiert, und als CO2 emittiert, was einer Massezunahme von 44/12 gleichkommt.
+Für die Folgejahre wird der Erdgasbedarf pro tonne Stahl als konstant angenommen und die Veränderung im Bedarf an CH4-DRI Stahl kann eingestellt werden.
+
+### H2 Direktreduktion
+
+Im Moment ist noch keine H2 Direktreduktionsanalge in Deutschland in Betrieb.
+Anders als bei der CH4 Direktreduktion fungiert bei der H2 Direktreduktion purer Wasserstoff als Reduktionsagent.
+Nach Lösch et. al. (Bewertung der Direktreduktion von Eisenerz mittels Elektrolyse-Wasserstoff, 2020) werden pro tonne produziertem Stahl 635 Nm^3 Wasserstoff benötigt.
+als nachhaltige Technologie sollte dieser Wasserstoff unbedingt nachhaltig produziert werden.
+Pro kt H2 werden nach (Low carbon energy and feedstock for the European chemical industry,DECHEMA) 0,0513 TJ elektrische Energie benötigt.
+In der H2-Direktreduktion fallen keine Treibhausgase an.
+Die produzierte Menge H2-DRI Stahl über die nächsten Jahre kann eingestellt werden.
+
+### sekundäre Mettalurgie
+
+Sekundäre Mettalurgieanlagen verarbeiten den Stahl aus den oben genannten Produktionsprozessen weiter.
+Weil das oft in Warmwalzanlagen integriert auf dem selben Gelände passiert, werden die Emissionen ebenfalls in 1.A.2.a abgedeckt.
+Der Energiebedarf der sekundären Mettalurgie wird im statstischen Jahrbuch der WV-Stahl unter den Warmwalz- und sonstigen Betrieben aufgeführt.
+Die Reduktion der Brennstoffnutzung dieser beiden Kategorien für die Folgejahre kann im Modell eingestellt werde.
+Ebenso kann der Bedarf an verarbeiteten Stahlprodukten eingestellt werden.
+Es wird angenommen, das sich der gesamte Energiebdarf proportional zu der produzierten Menge entwickelt.
+Die Lücke zwischen der Energiebereitstellung aus fossilen Brennstoffen und dem gesamten Energiebedarf wird dann mithilfe von Strom geschlossen.
+Dabei wir impliziet eine vollständige Nutzung der Heizwärme der fossilen Brennstoffe angenommen.
+Werden allerdings beispielsweise Teile der Brennstoffe zur Eigenstromerzeugung genutzt, so kann ein deutlich niedriger Energienutzungsgrad angenommen werden.
+Eine Subsitution der Energieträger hin zu elektrischer Energie könnte dann zu sehr großen Effizienzgewinnen führen.
+Aufgrund mangelnden Einblicken in die genauen Nutzung der Brennstoffe in der sekundären Mettalurgie wurde diese Entwicklung nicht in den Modellen wiedergespiegelt.
+
+### Eigenstromerzeugung
+
+In den integrierten Stahlproduktionsanalgen wird der Strombedarf in der Regel zu einem großen Teil selbstständig gedeckt.
+Die Aktivitätsdaten für die Stromerzeugung können aus dem statistischen Jahrbuch der Wirtschaftsvereinigung Stahl entnommen werden.
+Die daraus produzierte Strommenge wurde berechnet mit den Primärenergienutzungsgrad-Zahlen aus dem Stromerzeugungsmodell für 1.A.1.a.
+Die Emissionsfaktoren wurden als konstant wurden spezifisch zu der Emissionskategoreie aus dem NIR übernommen und für die Folgejahre als konstant angenommen.
+Das Modell erlaubt es die Reduktion der Nutzung von fossilen Brennstoffen ein zu stellen.
+
+
+
+
+
 
 
 
