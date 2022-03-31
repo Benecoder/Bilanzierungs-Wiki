@@ -1,14 +1,26 @@
 # CRF 1.A.2.a Iron and Steel
 
+Modellannahmen:
+
+Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
+Welche Werte sind im Modell veränderbar?
+Was wird als konstant angenommen?
+Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
+Wie werden in den Folgejahren die Emissionen berechnet?
+
+
 Die Emissionen aus der Eisen und Stahlerzeugung sind über eine Vielzahl von Emissionskategorien verteilt.
 In 1.A.2.a werden die Brennstoffemissionen in Abgrenzung zu den Prozessemissionen in 2.C.1 und den Flüchtigen Emissionen aus 1.B.1.b aufgeführt.
 Ein Großteil der direkten Emissionen aus der Stahlindustrie entstehen bei der Oxygenstahl Produktion in Hochöfen.(Erläuterung siehe unten)
 Die Hochöfen sind dabei in der Regel Teil von integrierten Hüttenwerken in denen unter anderem auch die rohe Steinkohle zu Koks weiterverarbeitet wird.
 Die Emissionen aus Kokerein werden in der CRF Kategorie 1.A.1.c aufgeführt.
 [Was in Deutschland von der Koksproduktion noch übrig ist,](https://www.chemie.de/lexikon/Liste_von_Kokereien_in_Deutschland.html) findet in Hüttenkokerein zu nachgelagerten Stahlproduktion statt.
-In der unterliegenden Rechnung sind daher die Emissionen in 1.A.1.c an die Aktivitätsdaten der Hochofen-Stahlproduktion gekoppelt.
+In der unterliegenden Rechnung sind daher die Emissionen in 1.A.1.c an die Aktivitätsdaten der Hochofen-Stahlproduktion gekoppelt, werden allerdings seperat aufgeführt.
 
 ## Modell Annahmen
+
+Die Emissionene für 1.A.1.c werden getrennt nach verschiedenen Stahlproduktionstechniken berechnet.
+Für die Folgejahre kann die Produktion von Hochofenstahl, Elektrostahl und Eisenschwemme aus CH4 oder H2 Direktreduktion berechnet werden.
 
 ### Hochofenroute
 Rund 70% oder 27.7 mio. t Rohstahl wurden 2019 über die Hochofenroute produziert. (NIR 2021, S.326)
@@ -52,7 +64,7 @@ Nach den Daten des VdKI wurden in den deutschen Hochöfen  17,2 mio. t. SKE verb
 Somit ergeben sich 52,390 kt CO2, eine unabhängige Verifikation der Ergebnisse des NIR 2021 der nur um 1,02% von diesem Ergebnis abwicht.
 
 #### Die Methodik der GZ Emissionsbilanz
-Aufgrund fehlender Vertraulicher Daten konnte die Methodik des NIR nicht 1 zu 1 nachempfunden werden. Insbesondere fehlen öffentliche Daten über die Nutzung von nicht-Koks Brennstoffen, differenziert nach Produktionstechnik. Unsere Methodik basiert auf den Zahlen aus dem statistischen Jahrbuch der Wirtschaftsvereinigung Stahl. Darin wird der Energiebedarf differenziert sowohl nach Prozessen. 
+Aufgrund fehlendem Zugang zu vertraulichen Daten konnte die Methodik des NIR nicht 1 zu 1 nachempfunden werden. Zahlen über die Steinkohlenutzung in der Stahlherstellung [werden zwar vom Verein der Kohleimportuere veröffentlicht,](https://www.kohlenimporteure.de/publikationen/jahresbericht-2021.html) es fehlen aber öffentliche Daten über die Nutzung von nicht-Koks Brennstoffen, differenziert nach Produktionstechnik. Unsere Methodik basiert daher auf den Zahlen aus dem statistischen Jahrbuch der Wirtschaftsvereinigung Stahl. Darin wird der Energiebedarf differenziert sowohl nach Prozessen. 
 
 * Elektrostahlwerken
 * Frischdampfkesselhaus
@@ -81,4 +93,38 @@ Sekundäre Energieträger, keine Kohlenstoffquellen:
 * Dampf
 * Sauerstoff
 * Strom
+
+Anders als im NIR wird in unserer Modellierung nicht der Kohlenstoffanteil der Steinkohle als Kohlenstoffquelle berücksichtigt sondern die weiterverarbieten Koks-Produkte.
+Die Emissionen in 1.A.1.c werden dann anders als im NIR basiert auf getrennten Aktivitätsdaten berechnet.
+
+Für die Emissionen aus der Hochofenroute wurde der Energiebedarf aus dem Jahresbericht der WV-Stahl für Hochöfen, Sinteranalgen und Oxygenstahlwerke zusammengerechnet.
+Die Daten über die produzierte Menge Hochofenstahl können ebenfalls aus dem Bericht der WV-Stahl bezogen werden.
+Die Emissionsfaktoren wurden basiert auf der Annahme ermittelt, dass die Brennstoffe früher oder später vollständig oxidiert werden.
+Die Emissionsfaktoren für Erdgas und flüssige Brennstoffe wurden aus dem nationalen Inventarbeicht für die Emissionskategorie übernommen.
+Der Energiebedarf pro produzierter Tonne Stahl für jeden der Energieträger wurde als konstant angenommen.
+Für die Folgejahre kann dann der Bedarf an produziertem Hochofenstahl verändert werden.
+So kann in den Folgejahren berechnet werden wie sich der Energiebedarf und die Emissionen für die Hochofenroute verändern wird.
+
+### Elektrostahlroute
+
+Elektrostahlwerke produzieren Stahl nicht aus der verarbeitung von Eisenerzen sondern aus dem Schmelze von Stahlschrott oder Eisenschwemme.
+Letzteres wird in den unten erwähnten Direktreduktionsanlagen hergestellt.
+In der Elektorstahlproduktion selber wird der überwiegende Anteil der Energie in Form von elektrischem Strom bereit gestellt.
+Daten über die Nutzung der übrigen Energieträger, die Kohlenstoff beitragen (Steinkohle, Steinkohlebriketts, Koksgrus, und Erdgas) können aus dem statistischen Jahrbuch der Wirtschaftsvereinigung Stahl bezogen werden.
+Auch die Menge an produziertem Elektrostahl aus Stahlschrott kann aus dem Jahrbuch der WV-Stahl bezogen werden. 
+Die Emissionsfaktoren für Steinkohle und Koks wurden basiert auf der Annahme ermittelt, dass die Brennstoffe früher oder später vollständig oxidiert werden.
+Die Emissionsfaktoren für Erdgas wurden aus dem nationalen Inventarbeicht für die Emissionskategorie übernommen.
+Der Energiebedarf pro produzierter Tonne Stahl für jeden der Energieträger wurde als konstant angenommen.
+Für die Folgejahre kann dann der Bedarf an produziertem Elektorstahl aus Stahlschrott verändert werden.
+Die Menge an verarbeiteter Eisenschwemme ist die Summer der Produktion aus H2 und CH4 Direktreduktion. (s.u.)
+
+
+
+
+
+
+
+
+
+
 
