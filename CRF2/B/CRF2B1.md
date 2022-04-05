@@ -12,6 +12,8 @@ Im Rahmen der CRF Kategorien werden beispielsweise die Emissionen der Stickstoff
 
 ## Modellannahmen
 
+In der Industrie Excel-File sind zwei Modelle für den Sektor 2.B.1 implementiert. Im älteren wurde noch eine Berechnung der Strombedarfe durchgeführt. Diese wurden im neuen Modell entfernt um die lesbarkeit zu verbessern.
+
 Die Herstellung von Ammoniak erfolgt in der Regel in hochgradig integrierten Anlagen.
 Der produzierte Ammoniak wird darin direkt zu Harnstoff, der Hauptbestandteil von synthetischen Stickstoffdüngern weiterverarbeitet.
 Im Moment stellt fossiles Erdgas den zentralen Rohstoff der Ammoniak Produktion dar.
