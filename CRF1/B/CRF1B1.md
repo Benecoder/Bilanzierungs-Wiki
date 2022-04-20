@@ -1,26 +1,17 @@
+# CRF 1.B.1 Solid Fuels
+
+Die flüchtigen Emissionen werden im NIR in drei Kategorien behandelt.
+In 1.B.1.a werden die Emissionen aus dem Kohlebergbau, sowohl von aktiven als auch von inaktiven (Unter-)Tagebauanlagen abgedeckt.
+Die Emissionsn die bei der Lagerung und dem Transport von Kohle entstehen fallen ebenfalls unter 1.B.1.a.
+Seit der Schließung der Steinkohleminen in Deutschland sind ausschließlich die Emissionen aus den Braunkohletagebauen Teil des Inventars.
+Unter 1.B.1.b werden flüchtige Emissionen aus der Kohleverarbeitung eingordnet. Diese sind von den Verbrennungsemissionen in 1.A.1.c abzugrenzen.
+Unter 1.B.1.c werden keine Emissionen aufgeführt.
+
 # Modellannahmen
-## mit Unterkategorien
-### und Unter-Unterkategorien
 
-Ähnlich wie ein [Personenkraftwagen](CRF1A3bPWK.md)
-**,bin ich fett** _schief_ [und verbinde A und B](https://app.element.io/germanzero.de).
-
-Man muss aufpassen
-das nicht alles ein Absatz ist,
-was so aussieht.
-
-* So 
-* macht
-* man Listen
-
-1. Die
-2. kann
-3. auch nummerieren
-
-
-# Szenario
-
-Hier würden wir dann die Bilder einbetten aber das passiert erst, wenn wir alle Modelle fertig haben und uns sicher sind,
-was wir für Annahmen treffen wollen. Bilder werden immer in /assets abgespeichert und das muss dann auch im Link wiederpiegeln.
-
-![Wenn das Bild nicht geht](/assets/PKW-Strombedarf.png)
+Die Emissionen unter 1.B.1 wurden nur sehr stark vereinfacht abgebildet, da insgesamt eine kleine Menge Emissionen aus einer Vielzahl von Quellen berücksicht werden müsste.
+Die Emissionen für das Jahr 2019 wurden direkt aus dem NIR übernommen.
+Wie oben erläutert entstehen die meisten Emissionen in 1.B.1 beim Braunkohleabbau der hauptsächlich in der Stromproduktion genutzt wird.
+Die Entwicklung der Emissionen in den Folgejahren wurde proportional zur Veränderung der Nutzung von Braunkohle als Primärenergieträger in der Stromerzeugung modelliert.
+Die Emissionen entiwcklen sich daher abhängig vom Rückbau und der Veränderung der Volllaststunden der Braunkohlekraftwerke.
+Beides kann im Modell zur Stromerzeugung für 1.A.1.a eingestellt werden.
