@@ -11,7 +11,9 @@ Unter 1.B.1.c werden keine Emissionen aufgeführt.
 
 Die Emissionen unter 1.B.1 wurden nur sehr stark vereinfacht abgebildet, da insgesamt eine kleine Menge Emissionen aus einer Vielzahl von Quellen berücksicht werden müsste.
 Die Emissionen für das Jahr 2019 wurden direkt aus dem NIR übernommen.
-Wie oben erläutert entstehen die meisten Emissionen in 1.B.1 beim Braunkohleabbau der hauptsächlich in der Stromproduktion genutzt wird.
+Wie oben erläutert entstehen die meisten Emissionen in 1.B.1.a beim Braunkohleabbau der hauptsächlich in der Stromproduktion genutzt wird.
 Die Entwicklung der Emissionen in den Folgejahren wurde proportional zur Veränderung der Nutzung von Braunkohle als Primärenergieträger in der Stromerzeugung modelliert.
 Die Emissionen entiwcklen sich daher abhängig vom Rückbau und der Veränderung der Volllaststunden der Braunkohlekraftwerke.
 Beides kann im Modell zur Stromerzeugung für 1.A.1.a eingestellt werden.
+Die Emissionen in 1.B.1.b entstheen hauptsächlich in Kokerein, deren Aktivitätsdaten in dem Modell für 1.A.1.c integriert sind.
+Die Emissionen in 1.B.1.b entwickeltn sich daher proportional zu den Emissionen in 1.A.1.c.
