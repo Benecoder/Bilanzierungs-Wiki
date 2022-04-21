@@ -1,9 +1,13 @@
-# CRF 2.E Electronic industry
+# CRF 2.E Electronic Industry
 
-* [1. Integrated circuit or semiconductor](CRF2E1.md)
-* [2. TFT flat panel display](CRF2E2.md)
-* [3. Photovoltaics](CRF2E3.md)
-* [4. Heat transfer fluid](CRF2E4.md)
-* [5. Other (as specified in table 2(II))](CRF2E5.md)
+Die Emissionen unter 2.E umfassen gerinfügige flüchtige Emissionen die bei der Produktion von halbleitern Chips anfallen.
+Es entstehend dabei eine Reihe von F Gasen, die ausschließlich unter 2.E.1 bilanziert werden.
 
+## Modellanahmen
 
+Die Vermeidung der Emissionen in der Chipproduktion kann nur durch eine Reduktion der Chipproduktion selber oder durch verbesserte Abgasbehandlung passieren.
+Die Komplexität diese Entwicklungen ab zu schätzen sprengt den Rahmen dieses Bilanzierungsprojekts deutlich.
+Die Emissionen für das Jahr 2019 wurden direkt aus dem NIR übernommen.
+Die weitere Entiwcklung der Emissionen wurde direkt aus dem [Projektionsbericht der Bundesrgierung](https://www.bmuv.de/download/projektionsbericht-der-bundesregierung-2021) 2021 übernommen.
+Emissionswerte zwischen den Projezierten jahren wurden linear interpoliert.
+Im Modell sind folglich keine Einstellungen möglich.
