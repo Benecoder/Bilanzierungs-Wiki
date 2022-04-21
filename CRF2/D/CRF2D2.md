@@ -1,15 +1,10 @@
 # CRF 2.D.2 Paraffin wax use
 
+In 2.D.2 werden die Emissionen aus der Nutzung von Parrafinwachs abgedeckt.
+Das betrifft hauptsächlich die Verbrennung von Kerzen.
 
-Erster Paragraph:
+## Modellannahmen:
 
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter?
-
-Modellannahmen:
-
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-    Welche Werte sind im Modell veränderbar?
-    Was wird als konstant angenommen?
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-    Wie werden in den Folgejahren die Emissionen berechnet?
+Die Emissionen aus der Kerzenverbrennung werden als konstant angenommen.
+Die Emissionen aus dem Jahr 2019 werden direkt aus dem Jahr 2019 übernommen.
 
