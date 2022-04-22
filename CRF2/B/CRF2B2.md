@@ -1,13 +1,12 @@
 # CRF 2.B.2 Nitirc Acid production
 
-Erster Paragraph:
+Unter 2.B.2 werden die Emissionen aus den neun Produktionsstädten für Salpetersäure in Deutschland bilanziert.
+Dabei werden nur die Prozessemissionen mitgezählt; nicht anderweitige Emissionen aus der Strom oder Wärmeerzeugung die bei Anlagen auf dem selben Gelände anfallen können.
 
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter?
+## Modellannahmen:
 
-Modellannahmen:
-
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-    Welche Werte sind im Modell veränderbar?
-    Was wird als konstant angenommen?
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-    Wie werden in den Folgejahren die Emissionen berechnet?
+Es wird angenommen, dass die Vermeidung von Emissionen in der Salpetersäureproduktion nur durch einen Rückgang der wirtscahftlichen Aktivität erreicht werden kann.
+Die Emissionen für das Jahr 2019 werden direkt aus dem NIR übernommen.
+Im Modell ist die Reduktion der Emissionen in den Folgejahren einstellbar.
+Insgesamt ist im Modell keine differenzierte technische Begründung für den Rückgang der Emissionen möglich.
+Der Rückgang kann hauptsächlich durch eine geringere Nutzung von Stickstoffdüngern belegt werden.
