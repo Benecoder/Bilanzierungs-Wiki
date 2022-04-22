@@ -1,14 +1,5 @@
 # CRF 1.A.2.a Iron and Steel
 
-Modellannahmen:
-
-Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-Welche Werte sind im Modell veränderbar?
-Was wird als konstant angenommen?
-Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-Wie werden in den Folgejahren die Emissionen berechnet?
-
-
 Die Emissionen aus der Eisen und Stahlerzeugung sind über eine Vielzahl von Emissionskategorien verteilt.
 In 1.A.2.a werden die Brennstoffemissionen in Abgrenzung zu den Prozessemissionen in 2.C.1 und den Flüchtigen Emissionen aus 1.B.1.b aufgeführt.
 Ein Großteil der direkten Emissionen aus der Stahlindustrie entstehen bei der Oxygenstahl Produktion in Hochöfen.(Erläuterung siehe unten)
