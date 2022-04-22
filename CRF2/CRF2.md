@@ -8,3 +8,8 @@ Die **CRF 2** Kategorie hat mehrere Unterkategorien.
 * [CRF2.F PRODUCT USES AS SUBSTITUTES for ODS(2)](F/CRF2F.md)
 * [CRF2.G OTHER PRODUCT MANUFACTURE AND USE](G/CRF2G.md)
 * [CRF2.H OTHER](H/CRF2H.md)
+
+
+Der Großteil der Emissionen in CRF 2 fällt in den Prozessemissionen der Kategorien 2.A bis 2.C an.
+CRF 2.D behandlet die Emissionen aus Lösungsmitteln, AdBlue und der Covrebrennung von Schmierstoffen.
+Die Kategorein 2.E-H behandeln verschiedene F Gas Emissionsquellen.
