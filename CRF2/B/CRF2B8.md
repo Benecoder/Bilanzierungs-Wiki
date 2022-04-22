@@ -1,13 +1,8 @@
 # CRF 2.B.8 Petrochemical and carbon black production
 
-Erster Paragraph:
+In 2.B.8 werden die Prozessemissionen aus der Petrochemischen Prouktion abgedeckt.
+Diese sind von den Verbrennungsemissionen unter 1.A.1.b zu differenzieren.
 
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter?
-
-Modellannahmen:
-
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-    Welche Werte sind im Modell veränderbar?
-    Was wird als konstant angenommen?
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-    Wie werden in den Folgejahren die Emissionen berechnet?
+## Modellannahmen:
+    
+Es wird angenommen, dass die Vermeidung von Prozesemissionen in der Petrochemie nur durch einen Rückgang der wirtschaftlichen Aktivität erreicht werden kann. Die Emissionen für das Jahr 2019 werden direkt aus dem NIR übernommen. Im Modell ist die Reduktion der Emissionen in den Folgejahren einstellbar. Insgesamt ist im Modell keine differenzierte technische Begründung für den Rückgang der Emissionen möglich. Die Emissionen in der Petrochemie entstehen hautpschlich an Steamchrackern, die in einer nachhaltigen Kreislaufwirtschaft keine Zukunft haben.
