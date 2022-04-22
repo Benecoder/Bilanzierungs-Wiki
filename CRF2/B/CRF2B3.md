@@ -1,13 +1,11 @@
 # CRF 2.A.3 Adipic acid production
 
-Erster Paragraph:
+In 2.A.3 werden die Stickoxidemissionsn aus der Adapinsäureherstellung abgedeckt.
 
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter?
+## Modellannahmen:
 
-Modellannahmen:
-
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-    Welche Werte sind im Modell veränderbar?
-    Was wird als konstant angenommen?
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-    Wie werden in den Folgejahren die Emissionen berechnet?
+Es wird angenommen, dass die Vermeidung von Emissionen in der Adapinsäureproduktion nur durch einen Rückgang der wirtschaftlichen Aktivität erreicht werden kann.
+Die Emissionen für das Jahr 2019 werden direkt aus dem NIR übernommen.
+Im Modell ist die Reduktion der Emissionen in den Folgejahren einstellbar.
+Insgesamt ist im Modell keine differenzierte technische Begründung für den Rückgang der Emissionen möglich.
+Der Rückgang kann hauptsächlich durch eine Verbesserung der Luftfilteranlagen begründet werden.
