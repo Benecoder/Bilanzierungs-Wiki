@@ -1,15 +1,11 @@
 # CRF 2.C.4 Magnesium production
 
+Die Emissionen in 2.C.3 umfassen die Prozessemissionen der Magenesiumproduktion.
+Die Emissionen stammen nicht aus der Produktion von Primärmagnesium sondern bei der Nutzung von F-Gasen als inertes Deckgas während des Gießprozesses.
 
-Erster Paragraph:
+## Modellannahmen:
 
-    Welche Emissionen zählen rein, welche nicht und wo kommen die unter?
-
-Modellannahmen:
-
-    Basiert auf welchen Daten werden die Emissionen im Jahr 2019 berechnet?
-    Welche Werte sind im Modell veränderbar?
-    Was wird als konstant angenommen?
-    Welche Entwicklung lässt sich durch die Veränderung dieser Werte jeweils mittelbar abbilden?
-    Wie werden in den Folgejahren die Emissionen berechnet?
-
+Es wird angenommen, dass die Emissionen aus der Herstellung von Aluminium durch einen Rückgang der wirtschaftlichen Aktivität zu bewerkstelligen ist.
+Die Emissionen aus dem Jahr 2019 wurden direkt aus dem NIR übernommen. 
+Die Veränderung der Emissionen in den Folgejahren kann im Modell eingestellt werden.
+Weil es die Komplexität dieses Modells deutlich übersteigen würde, werden keine genaueren Modellierung ermöglicht.
