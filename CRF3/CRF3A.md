@@ -10,8 +10,14 @@ Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des g
 # Modellannahmen
 Die Emissionen werden mit Hilfe folgender Formel berechnet:
 
-Anzahl Tiere x Durchschnittliche Energieaufnahme pro Tier x Durchschnittliche CH4 Konversionsrate
+Anzahl Tiere x Durchschnittliche Energieaufnahme pro Tier [MJ/Tier und Tag] x Durchschnittliche CH4 Konversionsrate
 
 Im Falle der Schafe und des anderen Viehs sind die durchschnlittliche Energieaufnahme und die durchschnittliche CH4 Konversionsrate zu einem Emissionsfaktor zusammengefasst, da die beiden erstgenannten Werte in den CRF-Tabellen für Schafe und anderes Vieh nicht verfügbar sind.
 
 Für die Prognosen der Emissionen gibt es drei Hebel: Die Anzahl der Tiere, die durchschnittliche Energieaufnahme pro Tier und die durchschnittliche CH4 Konversionsrate. Für Schafe und anderes Vieh sind die beiden letztgenannten entsprechend zu einem Hebel, dem Emissionsfaktor pro Tier, zusammengefasst.
+
+Der Emissionsfaktor ist über folgende Beziehung mit der durchschnittlichen Energieaufnahme pro Tier und der durchschnittlichen CH4 Konversionsrate verknüpft:
+
+Durchschnittliche Energieaufnahme pro Tier x 365 x Durchschnittliche CH4 Konversionsrate x 10^-3 / Energiegehalt CH4 [MJ/kg]
+
+Wobei der Energiegehalt von CH4 ist 55,65 MJ/kg.
