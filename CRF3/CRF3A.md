@@ -3,7 +3,7 @@
 In 3.A werden die THG-Emissionen der tierischen Verdauung bilanziert, welche ausschließlich Methan-Emissionen sind. Die Kategorie ist eingeteilt in Rinder, welche wiederum in Milchkühe und Nicht-Milchkühe eingeteilt sind. Neben den Rindern werden Schafe und Schweine separat bilanziert. In der Kategorie "anderes Vieh" werden Hühner und eine geringe Anzahl Pferde zusammengefasst. Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des geringen Anteils (<1 Promille) der Emissionen vernachlässigt.
 
 # Modellannahmen
-Die Emissionen werden mit Hilfe folgender Formel berechnet:
+Die Emissionen werden mit Hilfe folgender Formel berechnet: //
 Anzahl Tiere x Durchschnittliche Energieaufnahme x Durchschnittliche CH4 Konversionsrate
 ## mit Unterkategorien
 ### und Unter-Unterkategorien
