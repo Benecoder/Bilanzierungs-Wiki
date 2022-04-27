@@ -1,4 +1,4 @@
-# CRF 3.A Enteric Fermentation
+# CRF 3.A Enteric Fermentation / Tierische Verdauung
 
 In 3.A werden die THG-Emissionen der tierischen Verdauung bilanziert, welche ausschließlich Methan-Emissionen sind. Die Kategorie ist eingeteilt in:
 * Rinder, welche wiederum in Milchkühe und Nicht-Milchkühe eingeteilt sind. 
