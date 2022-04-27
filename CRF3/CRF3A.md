@@ -1,6 +1,6 @@
 # CRF 3.A Enteric Fermentation
 
-Kurze Beschreibung der abgedeckten Emissionen und nicht abgedeckten Kategorien mit Verwechslungsgefahr.
+In 3.A werden die Methan-Emissionen der tierischen Verdauung bilanziert. Diese sind eingeteilt in Rinder, welche wiederum in Milchkühe und Nicht-Milchkühe eingeteilt sind. Neben den Rindern werden Schafe und Schweine separat bilanziert. In der Kategorie "anderes Vieh" werden Hühner und eine geringe Anzahl Pferde zusammengefasst. Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des geringen Anteils (<1 Promille) der Emissionen vernachlässigt.
 
 # Modellannahmen
 ## mit Unterkategorien
