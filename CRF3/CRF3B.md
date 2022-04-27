@@ -1,6 +1,13 @@
 # CRF 3.B Manure management
 
-Kurze Beschreibung der abgedeckten Emissionen und nicht abgedeckten Kategorien mit Verwechslungsgefahr.
+In 3.B werden die THG-Emissionen aus dem Güllemanagement bilanziert. Diese sind größtenteils CH4-Emissionen, ein signifikanter Anteil entfällt auch auf N2O. NMVOC fallen ebenfalls an, diese werden in diesem Modell jedoch nicht bilanziert.
+
+Die Einteilung in Unterkategorien erfolgt analog zu [3.A](CRF3A.md):
+* Rinder, welche wiederum in Milchkühe und Nicht-Milchkühe eingeteilt sind. 
+* Schweine
+* Anderes Vieh (Hühner, eine geringe Anzahl Pferde) 
+
+Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des geringen Anteils (<1 Promille) der Emissionen vernachlässigt.
 
 # Modellannahmen
 ## mit Unterkategorien
