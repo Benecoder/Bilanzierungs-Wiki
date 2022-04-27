@@ -4,7 +4,7 @@ In 3.A werden die THG-Emissionen der tierischen Verdauung bilanziert, welche aus
 
 # Modellannahmen
 Die Emissionen werden mit Hilfe folgender Formel berechnet:
-Anzahl Tiere*Durchschnittliche Energieaufnahme*Durchschnittliche CH4 Konversionsrate
+Anzahl Tiere x Durchschnittliche Energieaufnahme x Durchschnittliche CH4 Konversionsrate
 ## mit Unterkategorien
 ### und Unter-Unterkategorien
 
