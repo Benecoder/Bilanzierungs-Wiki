@@ -22,6 +22,10 @@ Anzahl Tiere x Emissionsfaktor (t N2O pro Tier und Jahr)
 
 Sowohl die Anzahl der Tiere als auch der Emissionsfaktor sind für die Prognosen veränderlich.
 
+Die einzige Unterkategorie, die davon abweicht ist 3.B.5, indirekte N2O-Emissionen.
+Hier werden die Emissionen wie folgt berechnet:
+
+N (Stickstoff) verflüchtigt als NH3 und Nox [t/Jahr] x atmosphärische Ablagerung [kg N2O-N/kg N]
 
 ## mit Unterkategorien
 ### und Unter-Unterkategorien
