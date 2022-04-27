@@ -10,6 +10,19 @@ Die Einteilung in Unterkategorien erfolgt analog zu [3.A, Tierische Verdauung](C
 Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des geringen Anteils (<1 Promille) der Emissionen vernachlässigt.
 
 # Modellannahmen
+Die CH4-Emissionen werden nach folgender Formel berechnet:
+
+Anzahl Tiere x Emissionsfaktor (t CH4 pro Tier und Jahr)
+
+Sowohl die Anzahl der Tiere als auch der Emissionsfaktor sind für die Prognosen veränderlich.
+
+Die N2O-Emissionen werden nach dieser Formel berechnet:
+
+Anzahl Tiere x Emissionsfaktor (t N2O pro Tier und Jahr)
+
+Sowohl die Anzahl der Tiere als auch der Emissionsfaktor sind für die Prognosen veränderlich.
+
+
 ## mit Unterkategorien
 ### und Unter-Unterkategorien
 
