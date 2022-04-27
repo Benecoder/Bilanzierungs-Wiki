@@ -1,4 +1,4 @@
-# CRF 3.B Manure management
+# CRF 3.B Manure management / Güllemanagement
 
 In 3.B werden die THG-Emissionen aus dem Güllemanagement bilanziert. Diese sind größtenteils CH4-Emissionen, ein signifikanter Anteil entfällt auch auf N2O. NMVOC fallen ebenfalls an, diese werden in diesem Modell jedoch nicht bilanziert.
 
