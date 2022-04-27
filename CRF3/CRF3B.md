@@ -7,10 +7,12 @@ Die Einteilung in Unterkategorien erfolgt analog zu [3.A, Tierische Verdauung](C
 * Schweine
 * Anderes Vieh (Hühner, eine geringe Anzahl Pferde) 
 
+Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des geringen Anteils (<1 Promille) der Emissionen vernachlässigt.
+
 Im Unterschied zu [3.A, Tierische Verdauung](CRF3A.md) kommt hier jedoch eine weitere Unterkategorie hinzu:
 * Indirekte N2O-Emissionen
 
-Im Gegensatz zu den CRF-Tabellen werden die Emissionen von Ziegen aufgrund des geringen Anteils (<1 Promille) der Emissionen vernachlässigt.
+
 
 # Modellannahmen
 Die CH4-Emissionen werden nach folgender Formel berechnet:
